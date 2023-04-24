@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ozturkbey/count.svg?"  />
+  <img src="![](https://komarev.com/ghpvc/?username=ozturkbey&color=green)"  />
 </div>
 
 ###
