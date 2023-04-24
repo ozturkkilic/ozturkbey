@@ -1,6 +1,6 @@
 <div align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://ozturk.wtf"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://ozturk.wtf">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ozturkbey&column=8&no-frame=true"/>
 </a>
 </div>
