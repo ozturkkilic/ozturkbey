@@ -3,14 +3,6 @@
   <img src="https://streak-stats.demolab.com?user=ozturkbey&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  
-  <div align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ozturkbey&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-</div>
-
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/13538249?s=400&u=d978c7c06d4d621a4afc6da1d9cc25d6e0266984&v=4"  />
