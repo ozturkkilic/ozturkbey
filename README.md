@@ -5,7 +5,7 @@
 </a>
 </div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Başarısız olsak bile çabalarımız boşa değildir."/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Başarısız olsak bile çabalarımız boşa değildir."/>
 
 ###
 
